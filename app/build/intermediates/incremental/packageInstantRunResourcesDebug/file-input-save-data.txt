@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Mon Dec 19 12:26:04 CET 2016
+2.base=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_capture_signature.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\assets\\debug\\printer_profiles.JSON
+2.set=ANDROID_RESOURCE
+4.base=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\assets\\debug\\honeywell_logo.bmp
+7.set=ASSET
+count=10
+0.file=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\print.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\assets\\debug
+1.file=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\signature_border.xml
+9.set=ANDROID_RESOURCE
+9.file=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\assets\\debug
+2.file=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_print.xml
+6.set=ASSET
+0.base=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\capture_signature.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

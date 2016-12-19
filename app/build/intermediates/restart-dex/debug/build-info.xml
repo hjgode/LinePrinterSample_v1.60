@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="270916276410790"
+    token="219698742353215946"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="187" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\!iDaten\_SalesForce_Cases\00904781_PR3_android_stops\LinePrinterSample_v1.60 V2_Not working\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="270916276410790"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\!iDaten\_SalesForce_Cases\00904781_PR3_android_stops\LinePrinterSample_v1.60 V2_Not working\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

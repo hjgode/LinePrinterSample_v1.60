@@ -1,0 +1,4 @@
+#Mon Dec 19 12:33:38 CET 2016
+base.0=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

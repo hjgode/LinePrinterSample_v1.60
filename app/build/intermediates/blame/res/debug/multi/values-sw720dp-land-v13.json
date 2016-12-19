@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    }
+]

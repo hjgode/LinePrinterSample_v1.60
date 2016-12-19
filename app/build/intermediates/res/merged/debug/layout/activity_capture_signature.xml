@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".CaptureSignatureActivity" >
+
+    <LinearLayout
+        android:id="@+id/linearLayoutSignClear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textSign"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:text="@string/sign_below" />
+
+        <Button
+            android:id="@+id/buttonClear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:onClick="onClearButtonClicked"
+            android:text="@string/button_clear" />
+    </LinearLayout>
+
+    <com.honeywell.mobility.lineprint.sample.SignatureView
+        android:id="@+id/viewSignature"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:layout_below="@+id/linearLayoutSignClear"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/signature_border"/>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutSignatureButtons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/buttonSave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:onClick="onSaveButtonClicked"
+            android:text="@string/button_save" />
+
+        <Button
+            android:id="@+id/buttonCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="50dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:onClick="onCancelButtonClicked"
+            android:text="@string/button_cancel" />
+
+    </LinearLayout>
+
+</RelativeLayout>

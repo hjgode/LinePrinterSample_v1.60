@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="DelayBetweenCopies">100</string>
+    <string name="InputNumberOfAditionalLines">1 </string>
+    <string name="InputNumberOfCopies">1 </string>
+    <string name="LabelNumberOfAditionalLines">Number of aditional lines:  </string>
+    <string name="LabelNumberOfCopies">Number of copies: </string>
+    <string name="ProgressStatus">Progress and Status</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">LinePrinterSample</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_save">Save</string>
+    <string name="enter_mac_address">Enter a MAC address</string>
+    <string name="enter_opt_text">Enter optional text to print</string>
+    <string name="enter_printer_id">Enter a Printer ID</string>
+    <string name="labelOfDelayBetweenCopies">Delay Between Copies (ms)</string>
+    <string name="print">Print</string>
+    <string name="reset">Reset</string>
+    <string name="sign">Sign</string>
+    <string name="sign_below">Sign below</string>
+    <string name="signature_imageview_desc">Signature image</string>
+    <string name="title_activity_capture_signature">CaptureSignatureActivity</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

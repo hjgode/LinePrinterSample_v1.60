@@ -1,0 +1,486 @@
+[
+    {
+        "outputFile": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 50,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 996,
+                        "endColumn": 50,
+                        "endOffset": 1042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 58,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 58,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 50,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 806,
+                        "endColumn": 50,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 84,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 84,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 66,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 654,
+                        "endColumn": 66,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 62,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endColumn": 62,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 52,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 54,
+                    "endOffset": 648
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 653,
+                    "endColumn": 48,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1324,
+                        "endColumn": 48,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 46,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1277,
+                        "endColumn": 46,
+                        "endOffset": 1319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 44,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1232,
+                        "endColumn": 44,
+                        "endOffset": 1272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 65,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 65,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 860,
+                    "endColumn": 71,
+                    "endOffset": 927
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 71,
+                        "endOffset": 580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 932,
+                    "endColumn": 63,
+                    "endOffset": 991
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 63,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 996,
+                    "endColumn": 79,
+                    "endOffset": 1071
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 79,
+                        "endOffset": 991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1076,
+                    "endColumn": 39,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 39,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endColumn": 39,
+                    "endOffset": 1151
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 39,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1156,
+                    "endColumn": 37,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 37,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1194,
+                    "endColumn": 49,
+                    "endOffset": 1239
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1182,
+                        "endColumn": 49,
+                        "endOffset": 1227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1244,
+                    "endColumn": 68,
+                    "endOffset": 1308
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 585,
+                        "endColumn": 68,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1313,
+                    "endColumn": 85,
+                    "endOffset": 1394
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 85,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1399,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1685
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1690,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1845
+                },
+                "from": {
+                    "file": "D:\\!iDaten\\_SalesForce_Cases\\00904781_PR3_android_stops\\LinePrinterSample_v1.60 V2_Not working\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

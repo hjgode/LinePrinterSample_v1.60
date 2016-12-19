@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\!iDaten\_SalesForce_Cases\00904781_PR3_android_stops\LinePrinterSample_v1.60 V2_Not working\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e23efdbbd87a94e11452596fb5e7f9bdb0b93ba7">
+        <dex dex="D:\!iDaten\_SalesForce_Cases\00904781_PR3_android_stops\LinePrinterSample_v1.60 V2_Not working\app\build\intermediates\pre-dexed\debug\instant-run_96b9b1a65c483d2ae57d5840354a7d0997698c11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\!iDaten\_SalesForce_Cases\00904781_PR3_android_stops\LinePrinterSample_v1.60 V2_Not working\app\libs\hsm-android-print.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="825f279da1c2ba74fb2c77494275e2a5f266479f">
+        <dex dex="D:\!iDaten\_SalesForce_Cases\00904781_PR3_android_stops\LinePrinterSample_v1.60 V2_Not working\app\build\intermediates\pre-dexed\debug\hsm-android-print_31d50ab61bf3414886c629e85023d2e62404b80b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\!iDaten\_SalesForce_Cases\00904781_PR3_android_stops\LinePrinterSample_v1.60 V2_Not working\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="afd86970c8da4fbd659651a5d709b0cc525a1c64">
+        <dex dex="D:\!iDaten\_SalesForce_Cases\00904781_PR3_android_stops\LinePrinterSample_v1.60 V2_Not working\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1e277ab3b7e41a094550f56e7ae0f72d5fb4645f.jar" />
+    </item>
+
+</items>

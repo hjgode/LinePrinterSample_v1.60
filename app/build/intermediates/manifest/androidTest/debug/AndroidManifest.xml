@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.honeywell.mobility.lineprint.sample.test">
+
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="20" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="com.honeywell.mobility.lineprint.sample"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.honeywell.mobility.lineprint.sample"/>
+</manifest>

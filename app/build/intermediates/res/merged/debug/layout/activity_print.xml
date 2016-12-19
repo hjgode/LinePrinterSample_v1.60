@@ -1,0 +1,206 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".PrintActivity"
+    android:id="@+id/nu">
+
+    <LinearLayout
+        android:id="@+id/linearLayoutInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+ 
+        <EditText
+            android:id="@+id/editPrinterID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/enter_printer_id"
+            android:gravity="left"
+            android:inputType="textNoSuggestions"
+            android:selectAllOnFocus="true"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/editMacAddr"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/enter_mac_address"
+            android:gravity="left"
+            android:inputType="textNoSuggestions"
+            android:selectAllOnFocus="true"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/editUserText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/enter_opt_text"
+            android:gravity="left"
+            android:textSize="18sp"
+            android:selectAllOnFocus="true"
+            android:inputType="text" />
+
+    </LinearLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayoutInput"
+        android:id="@+id/tableLayout"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center_horizontal">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/LabelNumberOfCopies"
+                android:id="@+id/labelNumberOfCopies"
+                android:layout_below="@+id/linearLayoutInput"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/inputNumberOfCopies"
+                android:hint="@string/InputNumberOfCopies"
+                android:layout_below="@+id/linearLayoutInput"
+                android:layout_centerHorizontal="true"
+                android:layout_column="10" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/LabelNumberOfAditionalLines"
+                android:id="@+id/labelOfAditionalLines"
+                android:layout_below="@+id/labelNumberOfCopies"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center_vertical" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/inputNumberOfAditionalLines"
+                android:hint="@string/InputNumberOfCopies"
+                android:layout_below="@+id/linearLayoutInput"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="right"
+                android:layout_column="10" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/labelOfDelayBetweenCopies"
+                android:id="@+id/labelOfDelayBetweenCopies"
+                android:layout_below="@+id/labelNumberOfCopies"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center_vertical" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/DelayBetweenCopies"
+                android:hint="@string/DelayBetweenCopies"
+                android:layout_below="@+id/linearLayoutInput"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="right"
+                android:layout_column="10" />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <ImageView
+        android:id="@+id/imgSignature"
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        android:contentDescription="@string/signature_imageview_desc"
+        android:layout_above="@+id/textProgress"
+        android:layout_toRightOf="@+id/buttonsign"
+        android:layout_toEndOf="@+id/buttonsign"
+        android:layout_marginLeft="34dp"
+        android:layout_marginStart="34dp" />
+
+    <TextView
+        android:id="@+id/textProgress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/buttonPrint"
+        android:text="@string/ProgressStatus"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textMsg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textProgress"
+        android:layout_marginTop="10dp"
+        android:lines="10"
+        android:textIsSelectable="true"
+        android:background="#AFEEEE"
+        android:textSize="18sp"
+        android:maxLines="10"
+        android:scrollbars = "vertical"
+        android:gravity="bottom"/>
+
+    <Button
+        android:id="@+id/buttonsign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="@string/sign"
+        android:textStyle="bold"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/buttonPrint"
+        android:layout_below="@+id/tableLayout" />
+
+    <Button
+        android:id="@+id/buttonPrint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="@string/print"
+        android:textStyle="bold"
+        android:layout_alignBaseline="@+id/buttonsign"
+        android:layout_alignBottom="@+id/buttonsign"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tableLayout" />
+
+</RelativeLayout>
